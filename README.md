@@ -5,8 +5,10 @@ Analysis Code and sample data set for "Anisotropy in human error fields during 3
 3DNavigate instructions: 
 
 -------------------------------------------------------------------
+
 System requirements are those of the softwares named below, all of which are commercially available. 
 System requirements of each can be found on their respective websites.
+
 -------------------------------------------------------------------
 1- Software dependencies and operating systems:
 
@@ -27,7 +29,9 @@ Unity .2019.3.0a7
 
 Eyetracking required Vive Sense sdk and sranipal core sofware:
 VIVE Sense Eye and Facial Tracking sdk 1.3.3.0
+
 -------------------------------------------------------------------
+
 2. Installation guide
 
 All software can be downloaded from the following links: 
@@ -36,6 +40,7 @@ https://www.vive.com/us/support/vive-pro-eye/category_howto/installing-eye-track
 https://unity3d.com/get-unity/download
 
 -------------------------------------------------------------------
+
 3. Demo + Instructions for use
 
 "Individual3DLocateAnalysis" can be run for data from each participant. 
